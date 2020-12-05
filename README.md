@@ -20,6 +20,10 @@ I'll include a contents page, and you can check the relevant jupyter notebooks
 for it.
 
 
+* Beginner - [Notebook Folder](notebooks/Beginner%20Projects) -  [Notes Folder](Notes%20/Beginner)
+    * Converting Hex and Base 64 - [Notes](Notes%20/Beginner/Convertin%20Hex%20and%20Base%2064/README.md)
+    
+
 ## Social Media 
 - [Linkden - Elijah Ahmad](https://www.linkedin.com/in/elijah-ahmad-658a2b199/)
 - [FaceBook - Elijah Ahmad](https://www.facebook.com/elijah.ahmad.71)

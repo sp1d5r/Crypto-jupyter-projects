@@ -21,9 +21,9 @@ for it.
 
 
 * Beginner - [Notebook Folder](notebooks/Beginner%20Projects) -  [Notes Folder](Notes%20/Beginner)
-    * Converting Hex and Base 64 - [Notes](Notes%20/Beginner/Convertin%20Hex%20and%20Base%2064/README.md)
-    * XOR'ing Two Hex Values - [Notes](Notes%20/Beginner/Fixed%20Hex%20XOR%20Calculator/Fixed-Hex-XOR-Calculator.md)
-    
+    * Converting Hex and Base 64 - [Notes](Notes /Beginner/Converting-Hex-And-Base-64.md)
+    * XOR'ing Two Hex Values - [Notes](Notes /Beginner/Fixed-Hex-XOR-Calculator.md)
+    * Single-byte XOR Cipher - [Notes](Notes%20/Beginner/Single-Byte-XOR-Cipher.md)
 
 ## Social Media 
 - [Linkden - Elijah Ahmad](https://www.linkedin.com/in/elijah-ahmad-658a2b199/)

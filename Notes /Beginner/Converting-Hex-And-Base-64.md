@@ -90,7 +90,7 @@ What did i learn from this task?
 
 Operating on bytes and bits is much more efficient than operating on encoded string, when transferring string data over the internet to make sure we don't lose any information during transmition. But I personally see it used on websites all the time, and the reason for this is because its around 33% shorter.
 
-I rewrote it in C because it's lower level and i wanted to get some practice in it. You can find that [here!](../../../notebooks/Beginner%20Projects/Converting%20Hex%20and%20Base%2064.c)
+I rewrote it in C because it's lower level and i wanted to get some practice in it. You can find that [here!](../../notebooks/Beginner%20Projects/Converting%20Hex%20and%20Base%2064.c)
 
 ```c
 #include <stdio.h>
